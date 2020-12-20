@@ -1,0 +1,29 @@
+[2020-12-20 05:19:18.053] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-20 05:19:18.053] [remoteagent] [info] Extension host agent started.
+[2020-12-20 05:19:19.435] [remoteagent] [info] [127.0.0.1][c755673e][ManagementConnection] New connection established.
+[2020-12-20 05:19:19.438] [remoteagent] [info] [127.0.0.1][94ecef78][ExtensionHostConnection] New connection established.
+[2020-12-20 05:19:19.528] [remoteagent] [info] [127.0.0.1][94ecef78][ExtensionHostConnection] <405918> Launched Extension Host Process.
+[2020-12-20 05:19:20.349] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-20 05:19:44.774] [remoteagent] [info] [127.0.0.1][c755673e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-20 05:19:45.798] [remoteagent] [info] [127.0.0.1][94ecef78][ExtensionHostConnection] <405918> Extension Host Process exited with code: 0, signal: null.
+[2020-12-20 05:19:45.799] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-20 05:19:56.730] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-12-20 05:19:56.730] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-20 05:19:58.766] [remoteagent] [info] [127.0.0.1][fb4e4a25][ManagementConnection] New connection established.
+[2020-12-20 05:19:58.767] [remoteagent] [info] [127.0.0.1][a2a10a81][ExtensionHostConnection] New connection established.
+[2020-12-20 05:19:58.769] [remoteagent] [info] [127.0.0.1][a2a10a81][ExtensionHostConnection] <406104> Launched Extension Host Process.
+[2020-12-20 05:19:59.537] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-20 05:19:59.552] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-20 05:20:03.625] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-20 05:24:56.731] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-20 07:29:48.289] [remoteagent] [info] [127.0.0.1][fb4e4a25][ManagementConnection] The client has reconnected.
+[2020-12-20 07:29:48.302] [remoteagent] [info] [127.0.0.1][a2a10a81][ExtensionHostConnection] The client has reconnected.

@@ -1,0 +1,42 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.16.237
+IP Address: 192.168.112.1
+Extension host agent listening on 34481
+
+
+[08:00:38] Extension host agent started.
+[08:00:40] [127.0.0.1][b2eddf4a][ManagementConnection] New connection established.
+[08:00:40] [127.0.0.1][a57ea090][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[08:00:40] [127.0.0.1][a57ea090][ExtensionHostConnection] <179530> Launched Extension Host Process.
+[08:01:04] [127.0.0.1][b2eddf4a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:01:05] [127.0.0.1][a57ea090][ExtensionHostConnection] <179530> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[08:01:05] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[08:01:14] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[08:01:14] Cancelling previous shutdown timeout
+[08:01:15] [127.0.0.1][7dc34671][ExtensionHostConnection] New connection established.
+[08:01:15] [127.0.0.1][bc76343b][ManagementConnection] New connection established.
+[08:01:15] [127.0.0.1][7dc34671][ExtensionHostConnection] <179695> Launched Extension Host Process.
+[08:01:19] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[08:05:00] Listing 0 persistent terminals, 0 total terminals
+New EH opened, aborting shutdown
+[08:06:14] New EH opened, aborting shutdown
+[08:30:18] [127.0.0.1][bc76343b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:30:19] [127.0.0.1][7dc34671][ExtensionHostConnection] <179695> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[08:30:19] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[08:35:19] Last EH closed, shutting down

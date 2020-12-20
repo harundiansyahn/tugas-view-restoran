@@ -1,0 +1,36 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 39295
+
+[05:19:18] Extension host agent started.
+[05:19:19] [127.0.0.1][c755673e][ManagementConnection] New connection established.
+[05:19:19] [127.0.0.1][94ecef78][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[05:19:19] [127.0.0.1][94ecef78][ExtensionHostConnection] <405918> Launched Extension Host Process.
+[05:19:20] Listing 0 persistent terminals, 0 total terminals
+[05:19:44] [127.0.0.1][c755673e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:19:45] [127.0.0.1][94ecef78][ExtensionHostConnection] <405918> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[05:19:45] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[05:19:56] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[05:19:56] Cancelling previous shutdown timeout
+[05:19:58] [127.0.0.1][fb4e4a25][ManagementConnection] New connection established.
+[05:19:58] [127.0.0.1][a2a10a81][ExtensionHostConnection] New connection established.
+[05:19:58] [127.0.0.1][a2a10a81][ExtensionHostConnection] <406104> Launched Extension Host Process.
+[05:19:59] Listing 0 persistent terminals, 0 total terminals
+[05:19:59] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[05:20:03] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+New EH opened, aborting shutdown
+[05:24:56] New EH opened, aborting shutdown
+[07:29:48] [127.0.0.1][fb4e4a25][ManagementConnection] The client has reconnected.
+[07:29:48] [127.0.0.1][a2a10a81][ExtensionHostConnection] The client has reconnected.

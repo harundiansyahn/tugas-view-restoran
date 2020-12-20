@@ -1,0 +1,21 @@
+[2020-12-18 02:15:44.565] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-18 02:15:44.565] [remoteagent] [info] Extension host agent started.
+[2020-12-18 02:15:45.888] [remoteagent] [info] [127.0.0.1][e731e6e7][ManagementConnection] New connection established.
+[2020-12-18 02:15:45.890] [remoteagent] [info] [127.0.0.1][c10616ac][ExtensionHostConnection] New connection established.
+[2020-12-18 02:15:45.988] [remoteagent] [info] [127.0.0.1][c10616ac][ExtensionHostConnection] <378785> Launched Extension Host Process.
+[2020-12-18 02:15:46.482] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-18 02:15:46.491] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-18 02:15:50.515] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-18 02:38:29.365] [remoteagent] [info] [127.0.0.1][e731e6e7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-18 02:38:30.396] [remoteagent] [info] [127.0.0.1][c10616ac][ExtensionHostConnection] <378785> Extension Host Process exited with code: 0, signal: null.
+[2020-12-18 02:38:30.396] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-18 02:43:30.397] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,20 @@
+[2020-12-19 06:07:37.415] [exthost] [info] extension host started
+[2020-12-19 06:07:37.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2020-12-19 06:07:37.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/php-language-features/dist/phpMain
+[2020-12-19 06:07:37.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-12-19 06:07:37.837] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/debug-auto-launch/dist/extension
+[2020-12-19 06:07:37.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-12-19 06:07:37.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/emmet/dist/node/emmetNodeMain
+[2020-12-19 06:07:37.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-19 06:07:37.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/git/dist/main
+[2020-12-19 06:07:37.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-12-19 06:07:37.949] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/merge-conflict/dist/mergeConflictMain
+[2020-12-19 06:07:37.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-12-19 06:07:37.954] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/search-result/dist/extension.js
+[2020-12-19 06:07:39.882] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-12-19 06:07:39.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/github/dist/extension.js
+[2020-12-19 06:07:40.260] [exthost] [info] eager extensions activated
+[2020-12-19 06:07:40.551] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-12-19 06:07:40.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/ms-vscode.js-debug/src/extension.js
+[2020-12-19 06:07:53.872] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"extensionId":{"value":"onecentlin.laravel-blade","_lower":"onecentlin.laravel-blade"},"activationEvent":"onLanguage:blade"}
+[2020-12-19 06:07:53.872] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/extensions/onecentlin.laravel-blade-1.25.0/out/extension

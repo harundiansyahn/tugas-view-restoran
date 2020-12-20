@@ -1,0 +1,35 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/laravel
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/laravel/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/database/migrations/2020_12_10_022519_create_tablemenu_table.php
+> git show --textconv :src/.env
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2020_12_10_022519_create_tablemenu_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/.env
+> git show --textconv :src/database/migrations/2014_10_12_000000_create_users_table.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/database/migrations/2014_10_12_000000_create_users_table.php
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/Http/Controllers/MenuController.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/app/Http/Controllers/MenuController.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/layouts/app2.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/laravel/src/resources/views/layouts/app2.blade.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/resources/views/href.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/href.blade.php
+> git show --textconv :src/resources/views/menu.blade.php
+> git ls-files --stage -- /home/ubuntu/laravel/src/resources/views/menu.blade.php

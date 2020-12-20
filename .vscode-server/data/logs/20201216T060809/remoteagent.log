@@ -1,0 +1,71 @@
+[2020-12-16 06:08:09.559] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-16 06:08:09.559] [remoteagent] [info] Extension host agent started.
+[2020-12-16 06:08:13.396] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] New connection established.
+[2020-12-16 06:08:13.398] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] New connection established.
+[2020-12-16 06:08:13.520] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] <258869> Launched Extension Host Process.
+[2020-12-16 06:08:15.694] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 06:08:15.702] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:08:22.723] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:09:07.823] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The client has reconnected.
+[2020-12-16 06:09:07.824] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:14:05.797] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The client has reconnected.
+[2020-12-16 06:14:05.797] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:15:22.895] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The client has reconnected.
+[2020-12-16 06:15:22.899] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:20:56.527] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The client has reconnected.
+[2020-12-16 06:20:56.537] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:26:58.468] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The client has reconnected.
+[2020-12-16 06:26:58.470] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:40:14.154] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The client has reconnected.
+[2020-12-16 06:40:14.155] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 06:52:46.615] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] New connection established.
+[2020-12-16 06:52:46.617] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] New connection established.
+[2020-12-16 06:52:46.620] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] <264266> Launched Extension Host Process.
+[2020-12-16 06:52:47.314] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2020-12-16 06:52:47.318] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/ubuntu/laravel/.vscode'
+[2020-12-16 06:52:51.929] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-12-16 06:52:56.600] [remoteagent] [info] Replaying 204 chars and 1 size events.
+[2020-12-16 06:59:57.951] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 06:59:57.952] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 07:01:35.493] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 07:01:35.494] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 07:04:07.327] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 07:06:04.382] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-16 07:06:04.383] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 07:06:04.384] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 07:11:04.383] [remoteagent] [info] [127.0.0.1][ce364020][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-12-16 07:11:05.398] [remoteagent] [info] [127.0.0.1][69d9d5a9][ExtensionHostConnection] <258869> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 07:13:10.799] [remoteagent] [info] Installing extension: onecentlin.laravel-blade
+[2020-12-16 07:13:10.801] [remoteagent] [info] Downloaded extension: onecentlin.laravel-blade undefined
+[2020-12-16 07:13:11.844] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.onecentlin.laravel-blade-1.25.0: onecentlin.laravel-blade
+[2020-12-16 07:13:11.845] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/onecentlin.laravel-blade-1.25.0
+[2020-12-16 07:13:11.846] [remoteagent] [info] Installation completed. onecentlin.laravel-blade
+[2020-12-16 07:13:11.853] [remoteagent] [info] Extensions installed successfully: onecentlin.laravel-blade
+[2020-12-16 08:01:33.883] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 08:01:33.883] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 08:04:35.184] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 08:04:35.185] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 08:54:15.732] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 09:14:30.471] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-16 09:14:30.472] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 09:14:30.472] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 09:21:31.282] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 09:21:56.612] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-12-16 09:21:56.612] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 09:21:56.613] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 09:26:35.828] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has reconnected.
+[2020-12-16 09:26:35.835] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 09:27:42.570] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-12-16 12:27:34.068] [remoteagent] [info] [127.0.0.1][b9456f64][ExtensionHostConnection] <264266> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 12:27:34.068] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-16 12:27:42.571] [remoteagent] [info] [127.0.0.1][3ad34f29][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2020-12-16 12:32:34.069] [remoteagent] [info] Last EH closed, shutting down
